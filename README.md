@@ -96,4 +96,4 @@ After running all the scripts, the following output files should be generated in
   - `Figure4.csv`
 
 =====================================
-End of README.
+**End of README.**
