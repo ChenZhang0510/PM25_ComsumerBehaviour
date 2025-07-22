@@ -1,6 +1,4 @@
-# PM25_ComsumerBehaviour
-================================================================================
-README for: "The Impact of Air Pollution on Consumer Spending Patterns: Evidence from China"
+Code for: "The Impact of Air Pollution on Consumer Spending Patterns: Evidence from China"
 Last updated: July 20, 2025
 Corresponding Author: Chen Zhang (zhangc@clas.ac.cn)
 ================================================================================
