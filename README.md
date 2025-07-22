@@ -1,15 +1,7 @@
-**Code for: "The Impact of Air Pollution on Consumer Spending Patterns: Evidence from China"**
-
-**Last updated: July 20, 2025**
-
-**Corresponding Author: Chen Zhang (zhangc@clas.ac.cn)**
-
-================================================================================
-
 
 A. GENERAL INFORMATION
 --------------------------------------------------------------------------------
-This replication package contains the code and simulated data to reproduce the analysis in the paper "The Impact of Air Pollution on Consumer Spending Patterns: Evidence from China."
+This replication package contains the code to reproduce the analysis in the paper "The Impact of Air Pollution on Consumer Spending Patterns: Evidence from China."
 
 The package is organized to allow for the replication of all main econometric models, heterogeneity analyses, robustness checks, and figures presented in the manuscript.
 
